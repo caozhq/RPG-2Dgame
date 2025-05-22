@@ -44,6 +44,7 @@ The following packages were updated:
   com.unity.textmeshpro from version 3.0.6 to 3.0.7
   com.unity.timeline from version 1.7.3 to 1.7.6
   com.unity.visualscripting from version 1.8.0 to 1.9.4
+<<<<<<< HEAD
 
 === Tue May 20 14:57:10 2025
 
@@ -82,3 +83,5 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+=======
+>>>>>>> 5bcd3dfe52270d6d4452d5845afbae2e5e8bdc0e

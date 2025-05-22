@@ -485,6 +485,7 @@ InputManager:
     type: 2
     axis: 5
     joyNum: 0
+<<<<<<< HEAD
   - serializedVersion: 3
     m_Name: Slash
     descriptiveName: 
@@ -534,3 +535,5 @@ InputManager:
     axis: 5
     joyNum: 0
   m_UsePhysicalKeys: 0
+=======
+>>>>>>> 5bcd3dfe52270d6d4452d5845afbae2e5e8bdc0e
